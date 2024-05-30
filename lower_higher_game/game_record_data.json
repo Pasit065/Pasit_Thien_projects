@@ -1,0 +1,30 @@
+{
+    "id": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "name": [
+        "Pan",
+        "Non",
+        "Kim",
+        "Joe",
+        "Simson"
+    ],
+    "mode": [
+        "hard",
+        "easy",
+        "hard",
+        "easy",
+        "hard"
+    ],
+    "is_win": [
+        true,
+        true,
+        true,
+        false,
+        false
+    ]
+}
